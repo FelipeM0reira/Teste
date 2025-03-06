@@ -1,8 +1,10 @@
 ### <h1 align = "center">Teste para Desenvolvedor de Sistemas Jr. 👨‍💻</h1>
 
-### <h1 align="center">🔨 Tecnologias utilizadas</h1>
+### <h1 align="center">🛰️ Tecnologias utilizadas</h1>
 
 - Python
+
+ ### <h1 align="center">🧾 Desafio Técnico </h1>
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
